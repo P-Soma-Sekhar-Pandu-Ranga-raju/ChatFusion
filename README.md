@@ -65,7 +65,7 @@ The **Advanced Multi-Faceted Chatbot** is a comprehensive language processing ap
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/advanced-chatbot.git
+   git clone https://github.com/P-Soma-Sekhar-Pandu-Ranga-raju/ChatFusion
    cd advanced-chatbot
    ```
 
